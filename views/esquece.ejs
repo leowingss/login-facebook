@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/stylesheets/esquece.css" rel="stylesheet">
+    <title>
+        <%= title%>
+    </title>
+</head>
+
+<body>
+    <!-- Header -->
+    <header>
+        <ul>
+            <li>
+                <div class="item">
+                    <label for="email"></label>
+                    <input type="email" placeholder="Email ou telefone" id="email" />
+                </div>
+                <div class="item">
+                    <label for="password"></label>
+                    <input type="password" placeholder="Senha" id="password" />
+                </div>
+                <a href="/login"><button type="submit">Entrar</button></a>
+                <a class="esqueceu-conta" href="">Esqueceu a conta?</a>
+            </li>
+        </ul>
+    </header>
+    <!-- Header -->
+
+    <!-- Esqueceu a conta -->
+    <div class="container">
+        <div class="encontre">
+            <h3>Encontre sua conta</h3>
+            <hr>
+            <span>Insira seu email ou telefone para procurar sua conta.</span>
+            <div class="celular">
+                <label for="numero"></label>
+                <input type="tel" placeholder="Número de celular">
+            </div>
+            <hr>
+            <div class="botoes">
+                <button class="botao-cancelar" type="submit">Cancelar</button>
+                <button class="botao-pesquisar" type="submit">Pesquisar</button>
+            </div>
+        </div>
+    </div>
+    <!-- Esqueceu a conta -->
+
+
+</body>
+
+</html>
