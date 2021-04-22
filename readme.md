@@ -6,7 +6,7 @@
     e praticar para me aperfeiçoar.
 
 **Para instalar na sua máquina basta:**
- - Copiar o link do repositório https://github.com/leowingss/facebook-login.git
- - Executar o comando git clone https://github.com/leowingss/facebook-login.git para clonar
- - Agora entrar no projeto: cd facebook-login.
+ - Copiar o link do repositório https://github.com/leowingss/login-facebook.git
+ - Executar o comando git clone https://github.com/leowingss/login-facebook.git para clonar
+ - Agora entrar no projeto: cd login-facebook.
  - Entrar no vscode e rodar na sua máquina. 
