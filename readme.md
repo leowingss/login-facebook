@@ -1,6 +1,6 @@
 # Login Facebook 
 
-    Esse é um projeto básico, com o intenção de refazer a página de "Login" 
+    Esse é um projeto básico, com a intenção de refazer a página de "Login" 
     e a página de "Esqueceu a Senha" do Facebook.
     O intuito foi treinar minhas habilidades de HTML e CSS refazendo uma página
     e praticar para me aperfeiçoar.
