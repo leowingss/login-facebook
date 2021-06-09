@@ -109,3 +109,13 @@ img {
     line-height: 32px;
     width: 500px;
 }
+
+.criar a {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 240px;
+    font-size: 14px;
+    font-weight: normal;
+    color: black;
+}
