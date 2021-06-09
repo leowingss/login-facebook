@@ -141,3 +141,10 @@ ul li button:hover {
     margin: 10px;
     padding: 10px;
 }
+
+img {
+    height: 100px;
+    width: 150px;
+    position: relative;
+    right: 35%;
+}

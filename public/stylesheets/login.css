@@ -15,7 +15,7 @@ body {
     justify-content: center;
     align-items: center;
     position: relative;
-    top: 150px;
+    bottom: 30px;
     left: 250px;
 }
 
@@ -87,9 +87,25 @@ a:hover {
 }
 
 img {
-    width: 150px;
-    height: 100px;
+    /* width: 150px; */
+    height: 106px;
     position: relative;
     top: 200px;
     left: 200px;
+    margin: -20px;
+}
+
+.descricao {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 200px;
+    right: 227px;
+}
+
+.descricao h2 {
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
 }
